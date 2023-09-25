@@ -1,0 +1,52 @@
+.joinpage .cell, .page-id-113 .cell, .page-id-4018 .cell { height: 60px; padding: 5px; border-bottom: 1px solid #fff; }
+.joinpage .tablehead, .page-id-113 .tablehead, .page-id-4018 .tablehead { background: #176FB8; color: #fff; text-align: center; height: 60px; }
+.joinpage .feature, .page-id-113 .feature, .page-id-4018 .feature { background:#dae9fa; color: #000; }
+.joinpage .tick .page-id-113 .tick, .page-id-4018 .tick { font-size:18px; color:#176FB8; }
+.joinpage .cost, .page-id-113 .cost, .page-id-4018 .cost { background: #ccc; height: 60px; }
+.joinpage .mover, .page-id-113 .mover, .page-id-4018 .mover { background: #fff; height: 80px !important; }
+.joinpage .mover h4, .page-id-113 .mover h4, .page-id-4018 .mover h4 { font-size: 16px; margin: 0; }
+.joinpage .mover p, .page-id-113 .mover p, .page-id-4018 .mover p { font-size: 14px; margin: 0; }
+.joinpage .mover .small, .page-id-113 .mover .small, .page-id-4018 .mover .small { font-size: 12px; }
+.joinpage .join, .page-id-113 .join, .page-id-4018 .join { border-top: 1px solid #176FB8; height: 60px !important; }
+.joinpage .addon .page-id-113 .addon, .page-id-4018 .addon { height: 140px !important; }
+.joinpage .strike .page-id-113 .strike, .page-id-4018  .strike { color: #176FB8; }
+ 
+.joinpage  button,
+.page-id-4018  button,
+.page-id-113  button {
+  width:100%;
+  border: 1px solid #DDD;
+  border-right:0;
+  border-top:0;
+  padding: 10px;
+  background:#FFF;
+  font-size:14px;
+  font-weight:bold;
+  height:60px;
+  color:#999
+}
+.joinpage .bestvalue, .page-id-113 .bestvalue, .page-id-4018 .bestvalue { background: #c00; color: #fff; display: block; }
+.joinpage .btn, .page-id-113 .btn, .page-id-4018 .btn { color: #000; }
+.joinpage .txt-l, .page-id-113 .txt-l, .page-id-4018 .txt-l { font-size:28px; font-weight:bold; }
+.joinpage .txt-top, .page-id-113 .txt-top, .page-id-4018 .txt-top { position:relative; top:-9px; left:-2px; }
+
+
+@media (min-width: 960px) and (max-width: 1199px) {
+.joinpage .cost, .page-id-113 .cost, .page-id-4018 .cost { background: #ccc; height: 80px; }
+.joinpage .addon, .page-id-113 .addon, .page-id-4018 .addon { height: 200px !important; }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 959px) {
+
+.joinpage .cell, .page-id-113 .cell, .page-id-4018 .cell { font-size: 70%; }
+.joinpage .cost, .page-id-113 .cost, .page-id-4018 .cost { background: #ccc; height: 90px; }
+.joinpage .addon, .page-id-113 .addon, .page-id-4018 .addon { height: 160px !important; }
+}
+
+@media (max-width: 767px) {
+
+.joinpage .tablehead, .page-id-113 .tablehead, .page-id-4018 .tablehead { margin-top: 20px; }
+.joinpage .cost, .page-id-113 .cost, .page-id-4018 .cost { background: #ccc; height: 90px; }
+}

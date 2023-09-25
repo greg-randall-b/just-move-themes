@@ -1,0 +1,348 @@
+/*
+ Theme Name:   Zone (UnderStrap Child)
+ Theme URI:    https://www.bowstern.com
+ Description:  UnderStrap Child Theme
+ Author:       BowStern
+ Template:     understrap
+ Version:      0.0.1
+*/
+
+.page-id-67 #formwrap li {
+  display: inline-block;
+  width: 15%;
+
+}
+
+#numba {
+  
+  font-size: 100px;
+  font-weight: bold;
+  color: rgba(24,112,184,1);
+  line-height: 100px;
+  text-align: right;
+
+}
+
+#step {margin-top: 50px;}
+
+#step img {
+  border-radius: 50%;
+}
+
+
+#amen p {
+  display: block;
+  background-color: rgba(24,112,184,1);
+  font-weight: bold;
+  color: #fff;
+  position: relative;
+  margin-bottom: -10px;
+  padding: 5px 0;
+  text-align: center;
+}
+
+#amen img {
+  max-height: 150px;
+  width: 100% !important;
+  margin-bottom: 15px;
+}
+
+#reason {
+  border: 2px solid rgba(24,112,184,1);
+  margin: 20px 0;
+  padding: 20px 0;
+}
+
+#reason h2 {
+   color: rgba(24,112,184,1);
+}
+
+#amenities {
+
+  overflow: hidden;
+  height: 200px;
+}
+
+
+
+#amenities {
+  text-align: center;
+  margin-bottom: 20px; 
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.wpcf7 select { width: 100% }
+.wpcf7 input[type=submit] { float: none; }
+
+.post-2507 img { 
+  border-radius: 50%;
+ }
+
+.post-2507 h1 {
+  font-size: 24px;
+ }
+
+#blubox {
+  background-color: rgba(24,112,184,.8);
+  margin: 80px auto 50px auto;
+}
+
+#vipbtn {
+  text-align: center;
+}
+
+.btn a {
+  background-color: rgba(24,112,184,1);
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  border-radius: 7px;
+  margin-top: 20px;
+  font-size: 20px; 
+
+}
+
+.meta2 {border: 4px solid #fff;}
+
+.btn a:hover {
+  background-color: rgba(24,112,184,.8);
+  text-decoration: none;
+
+}
+
+.lefty li {
+}
+
+.righty li {
+  background: url(/wp-content/themes/zone/img/x_icon.png) no-repeat left top !important;
+}
+
+#blubox img {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: -70px;
+  display: block;
+}
+
+#blubox li {
+  color: #000;
+  list-style-type: none;
+  padding: 0 0 10px 41px;
+    background: url(/wp-content/themes/zone/img/check_icon.png) no-repeat left top;
+
+}
+
+#blubox ul {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+
+#blubox h2 {
+  font-weight: bold; 
+  font-size: 18px;
+  color: #fff;
+  padding-top: 20px;
+  text-align: center;
+  line-height: 24px;
+}
+
+
+
+#sparkles {
+  background-image: url('/wp-content/themes/zone/img/sparkles.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #fff;
+  padding: 100px 0;
+}
+
+.fifty-fifty { width: 45%; margin: 0 2%; float: left; padding-top: 40px; }
+
+.page-id-67 .aboutwrap, .page-id-287 .aboutwrap  {
+  text-align: center;
+}
+
+#ladypress {
+  margin-top: -60px;
+}
+
+.home #content {padding: 0 0 100px 0; text-align: right;}
+.home h1 { display: none; }
+
+.home h2 { color: #fff; font-weight: bold; font-size: 70px; text-align: center; margin: 40px 0; }
+.home h4 { color: #fff;  font-size: 24px; text-align: left; margin: 40px 0 20px 0; }
+
+
+table.details { border: 1px solid #ccc !important; margin: 20px 0; }
+.details td, .details th { padding: 10px; border: 1px solid #ccc !important; background: #fff; }
+.details th { color: #176FB8; }
+
+.herotext h3 {
+  color: #fff;
+font-size: 60px; line-height: 85px; 
+  font-weight: bold;
+  margin: 0;
+}
+
+#herobanner h2 {
+  font-size: 34px;
+  font-weight: 700;
+  margin-left: 20px;
+  text-align: center;
+  font-style: italic;
+}
+
+
+
+
+
+#wrapper-footer p {
+  margin-top: 20px;
+  font-size: 90%;
+  text-align: center;
+}
+
+
+
+.homebutton { display: inline-block; }
+.homebutton a { display: block; background: #176FB8; min-width: 80px; margin: 30px 20px; font-weight: bold; color: #fff !important; text-decoration: none; padding: 15px; font-size: 18px; 
+    -webkit-border-radius: 12px; 
+    -moz-border-radius: 12px;
+    border-radius: 12px; 
+    text-align: center;}
+.homebutton a:hover { text-decoration: none; 
+    -webkit-box-shadow: 0px 0px 5px 6px #fff;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    0px 0px 5px 6px #fff;  /* Firefox 3.5 - 3.6 */
+  box-shadow:         0px 0px 5px 6px #fff;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
+
+.wpcf7-submit { display: block; background: #176FB8 !important; font-weight: bold; color: #fff !important; text-decoration: none; padding: 20px; font-size: 18px; 
+    -webkit-border-radius: 12px; 
+    -moz-border-radius: 12px;
+    border-radius: 12px; 
+    text-align: center;
+    border: none !important;
+    width: 200px !important; }
+
+
+#darkback .col-md-3 { z-index: 800; }
+
+#negtab { margin-top: -250px; z-index: 800;  }
+#negtab h2 { text-shadow: 0px 0px 5px #000; }
+
+.clubclub { background: #1371b9; padding: 20px 0px; margin: 0; text-align: center; margin: 0; 
+-webkit-box-shadow: 0px 0px 5px 0px #000;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    0px 0px 5px 0px #000;  /* Firefox 3.5 - 3.6 */
+  box-shadow:         0px 0px 5px 0px #000;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */   }
+.clubclub h3, .clubclub h2 { text-shadow: none !important; color: #fff; font-size: 20px; margin: 10px 0 0 0; font-weight: bold; text-transform: uppercase; }
+.clubclub h4 { color: #fff;font-size: 60px; font-weight: bold; text-shadow: 0px 0px 15px #000; margin: 0px 0 0 0; }
+.clubclub p { line-height: 100%; margin: 10px 0; font-size: 13px; }
+.clubclub p strong { font-size: 18px; line-height: 28px; display: block; }
+.clubclub a { background: #000; color: #fff; font-weight: bold; display: block; text-align: center; font-size: 20px; padding: 10px; margin: 10px 0; width: 150px; 
+    -webkit-border-radius: 12px; 
+    -moz-border-radius: 12px;
+    border-radius: 12px; }
+.clubclub a:hover { text-decoration: none; 
+    -webkit-box-shadow: 0px 0px 5px 6px #fff;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    0px 0px 5px 6px #fff;  /* Firefox 3.5 - 3.6 */
+  box-shadow:         0px 0px 5px 6px #fff;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+.clubclub li { list-style: none; padding: 0; margin: 0; font-size: 11px ; color: #fff;}
+.clubclub ul { margin: 0 20px; padding: 0; }
+
+.homemap { margin: 10px; height: 150px; overflow: hidden }
+
+
+#launch { background: #000; }
+#launch #full-width-page-wrapper { height: 250px; }
+
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+.plan h3 { font-size: 24px; }
+.plan h4 { font-size: 42px; }
+.plan { height: 730px; }
+}
+
+@media only screen and (max-width: 767px) {
+
+
+.page-id-208 #launch #full-width-page-wrapper { width: 100%; padding: 0; margin: 0; background: url(/wp-content/uploads/2017/09/justmovelogo.png) 50% 50% no-repeat; background-size: 400px; }
+.page-id-208 .vidbg-container { display: none; }
+.page-id-208 #launch {padding: 0; margin-bottom: 20px; }
+
+.page-id-208 .offset-1 { margin: 0; padding: 0; }
+
+table.details { width: 280px; }
+
+
+.clubclub { width: 100%; float: none; margin: 0 0 20px 0; padding: 10px; height: 360px; }
+.planbox { float: left; width: 200px; margin: 0 40px 0 0; height: 340px; }
+.plan h3 { margin-top: 0; }
+
+#herobox { height: auto; }
+
+#darkback h2 { font-size: 30px; margin-top: 0px; }
+#negtab { margin-top: -50px; z-index: 800;  }
+#herobanner h2 {
+  font-size: 26px;
+  }
+#herobanner { padding-top: 0; }
+.herogroup { height: auto; }
+
+.fifty-fifty { width: 100%; margin:0; float: none;  }
+
+#menu-item-66 a {
+   background-color: #176FB8 !important;
+   -webkit-border-radius: 12px; 
+    -moz-border-radius: 12px;
+    border-radius: 12px; 
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/* Forward */
+.nav-link {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+
+}
+.nav-link:hover, .nav-link:focus, .nav-link:active {
+  -webkit-transform: none;
+  transform: none;
+  background-color: transparent !important;
+  -webkit-border-radius: 0px; 
+    -moz-border-radius: 0px;
+    border-radius: 0px; 
+      -webkit-box-shadow: none;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    none;   /* Firefox 3.5 - 3.6 */
+  box-shadow:        none; /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
+
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+.plan { height: 350px; }
+.planbox { height: 300px; }
+
+}
